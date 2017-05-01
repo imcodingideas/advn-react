@@ -1,13 +1,13 @@
 var path = require('path');
 
 module.exports = {
-  entry: './lib/components/Index.js',
+  entry: ['babel-polyfill', './lib/components/Index.js'],
   output: {
     filename: 'bundle.js',
     path: path.resolve(__dirname, 'public')
   },
   module: {
-  rules: [
+    rules: [
       {
         test: /\.js$/,
         exclude: /(node_modules|bower_components)/,
