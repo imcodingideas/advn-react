@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div>
+    <div />
+    <div />
+    <div>
+      <div>
+        undefined, undefined
+      </div>
+      <div />
+    </div>
+    <div />
+  </div>
+  <div>
+    <div />
+    <div />
+    <div>
+      <div>
+        undefined, undefined
+      </div>
+      <div />
+    </div>
+    <div />
+  </div>
+  <div>
+    <div />
+    <div />
+    <div>
+      <div>
+        undefined, undefined
+      </div>
+      <div />
+    </div>
+    <div />
+  </div>
+</div>
+`;

@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div>
+    Test article
+  </div>
+  <div>
+    Test date
+  </div>
+  <div>
+    <div>
+      Chambers, Joseph
+    </div>
+    <div>
+      test.com
+    </div>
+  </div>
+  <div>
+    Test body
+  </div>
+</div>
+`;
